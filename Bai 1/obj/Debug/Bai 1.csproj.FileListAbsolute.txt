@@ -1,0 +1,7 @@
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\bin\Debug\Bai 1.exe.config
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\bin\Debug\Bai 1.exe
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\bin\Debug\Bai 1.pdb
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\obj\Debug\Bai 1.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\obj\Debug\Bai 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\obj\Debug\Bai 1.exe
+C:\Users\ACER\Documents\C#2\Lab 3\Bai 1\obj\Debug\Bai 1.pdb
